@@ -11,7 +11,7 @@
 <!-- 🖊️ Typing SVG -->
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70074&background=EAFFD700&width=435&lines=Making+buttons+actually+work" alt="Typing SVG" />
+    <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70074&background=EAFFD700&width=435&lines=Making+buttons+actually+work" alt="Typing SVG" />
   </a>
 </h3>
 
