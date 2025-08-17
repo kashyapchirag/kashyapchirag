@@ -24,8 +24,9 @@
 ---
 
 <!-- ⚡ About Me -->
-- 🔭 **I’m currently working on:** Tic Tac Toe  
-- 🤔 **I’m looking for help with:** Your project here  
+
+- 🌱 **B.Tech student, passionate about technology & learning**
+- 🔭 **I’m currently working on:** Javascript 
 - 💬 **Ask me about:** Collaboration, Tech Support  
 - ⚡ **Fun fact:** I can binge-watch anime for hours but still wake up early to code  
 
