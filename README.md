@@ -27,7 +27,7 @@
 
 - 🌱 **B.Tech student, passionate about technology & learning**
 - 🔭 **I’m currently working on:** Javascript 
-- 💬 **Ask me about:** Collaboration, Tech Support  
+- 🤝 **Open to:**  Teamwork, Mentorship, Tech Talks  
 - ⚡ **Fun fact:** I can binge-watch anime for hours but still wake up early to code  
 
 <!-- Coding GIF on Right -->
